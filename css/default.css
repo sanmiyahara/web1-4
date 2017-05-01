@@ -19,6 +19,6 @@ li{
     font-size: 0.8em;
     color: #333333;
 }
-address{
-    font-weight: 120;
+address{ 
+    font-weight: bold;
 }
