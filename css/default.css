@@ -6,7 +6,6 @@ body{
 }
 h1{
     font-size: 1.75em;
-    E::first-letter font-size: 3.75em;
 }
 h2 {
     font-size: 1.25em;
@@ -49,6 +48,11 @@ p.greeting{
 }
 
 E::first-letter
+{
+    font-size: 3.75em;
+}
+
+h3
 {
     font-size: 3.75em;
 }
