@@ -5,6 +5,7 @@ body{
     background-repeat: repeat-x;
 }
 h1{
+    E::first-letter: 2.75em;
     font-size: 1.75em;
 }
 h2 {
