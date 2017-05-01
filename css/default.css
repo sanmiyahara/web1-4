@@ -26,12 +26,6 @@ p::first-letter{
 li{
     font-size: 0.8em;
 }
-address{ 
-    E::first-letter: 2.75em;
-    font-size: 0.75em;
-    font-style: italic;
-    font-weight: 450em;
-}
 h1 span{
     color: #d0e35b;
     font-weight: 450;
