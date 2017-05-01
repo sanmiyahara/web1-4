@@ -19,6 +19,7 @@ p{
     font-size: 0.8em;
     background-color: #3399cc;
 }
+p::first-letter
 li{
     font-size: 0.8em;
 }
