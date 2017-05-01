@@ -49,10 +49,5 @@ p.greeting{
 
 E::first-letter
 {
-    font-size: 3.75em;
-}
-
-h3
-{
-    E::first-letter font-size: 3.75em;
+    font-weight: 3.75em;
 }
