@@ -46,3 +46,8 @@ p.greeting{
     border-top: #6fbb9a 1px dotted;
     text-align: center;
 }
+
+E::first-letter
+{
+    font-size: 3.75em;
+}
